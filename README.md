@@ -1,4 +1,4 @@
-## Olá, me chamo ÍTalo Torres ! 
+## Olá, me chamo Ítalo Torres ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Estou aprendendo
