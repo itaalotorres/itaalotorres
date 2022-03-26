@@ -6,10 +6,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
           
 
-<div>
-<a href="https://github.com/itaalotorres">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaalotorres&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaalotorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>       
+<div align="center">
+  <a href="https://github.com/itaalotorres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaalotorres&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaalotorres&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itaalotorres&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaalotorres&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ### Contatos:
 
